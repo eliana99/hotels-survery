@@ -1,0 +1,12 @@
+.button-1 {
+  margin: 10px;
+  font-family: Lato;
+  font-size: 14px;
+  letter-spacing: 0px;
+  text-align: center;
+  text-transform: none;
+  color: rgba(255, 146, 79, 1);
+  padding: 10px 40px 10px 40px;
+  border-radius: 25px;
+  border: 1px solid rgba(255, 146, 79, 1);
+}
